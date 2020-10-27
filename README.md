@@ -10,7 +10,7 @@ experience.
 
 ## Setup
 
-## Start a Reason React Native project with this template
+## Start a Reason React Native Navigation project with this template
 
 ```console
 npx react-native init MyApp --template @idkjs/reason-react-native-navigation-template

@@ -1,6 +1,7 @@
 {
   "name": "@idkjs/reason-react-native-navigation-template",
   "version": "0.63.3",
+  "description": "Start a Reason React Native Navigation project with this template",
   "publishConfig": {
     "access": "public"
   },
